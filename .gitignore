@@ -2,3 +2,4 @@ build/
 .kotlin/
 .amper/
 *.iml
+CLAUDE.local.md
