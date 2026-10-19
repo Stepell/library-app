@@ -1,1 +1,5 @@
 product: jvm/app
+
+settings:
+  jvm:
+    mainClass: nl.stefan.library.MainKt
