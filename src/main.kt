@@ -1,3 +1,6 @@
+package nl.stefan.library
+
 fun main() {
-    println("Hello, ${World.get()}!")
+    println("Hello Library!")
+
 }
